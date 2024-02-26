@@ -1,0 +1,17 @@
+{
+  "name": "on-connect",
+  "version": "1.0.0",
+  "description": "onconnect example for WebSockets on API Gateway",
+  "main": "src/app.js",
+  "author": "SAM CLI",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.518.0",
+    "@aws-sdk/lib-dynamodb": "^3.518.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.20",
+    "aws-sdk": "^2.1564.0"
+  }
+}
